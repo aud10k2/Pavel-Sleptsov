@@ -37,5 +37,5 @@ Pavel-Sleptsov/
 ## Технологии
 
 - HTML
-- CSS (позже)
-- JavaScript (позже)
+- CSS 
+- JavaScript 
